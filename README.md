@@ -45,6 +45,7 @@ For used motorcycle datasets please go to https://www.kaggle.com/nehalbirla/moto
 ![005](https://user-images.githubusercontent.com/114944969/229365306-f3ebb0a0-ceb3-40fe-bb0e-b94cc2bdcf9c.jpg)
 ![006](https://user-images.githubusercontent.com/114944969/229365454-00a4c930-ddef-4e25-bdb8-dfebd942ab45.jpg)
 ![007](https://user-images.githubusercontent.com/114944969/229365536-ba473634-5a19-4d13-9bf3-6899beb48e04.jpg)
+![008](https://user-images.githubusercontent.com/114944969/229365823-6452c02d-0e0c-4476-9cda-5deed57d0707.jpg)
 
 ## Acknowledgements
 
